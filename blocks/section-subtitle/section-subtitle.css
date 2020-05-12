@@ -1,0 +1,10 @@
+@import url(./_theme/section-subtitle_theme_dark.css);
+
+.section-subtitle {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
